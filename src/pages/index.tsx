@@ -6,6 +6,7 @@ type Props = {
 }
 
 const bla = 'bla'
+const bla1 = 'bla'
 
 export default function Home({ title = 'Next React Avançado' }: Props) {
   return (
